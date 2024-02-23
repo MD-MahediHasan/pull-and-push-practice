@@ -10,7 +10,7 @@ function App(){
                    <Todos/>
                 </Col>
             </Row>
-            <h1>This is Push and Pull</h1>
+         
         </Container>
     )
 }
